@@ -76,6 +76,3 @@
     java Main
     ```
 
----
-
-## Sample Menu
