@@ -125,7 +125,7 @@ public class Main {
     private static Scanner sc = new Scanner(System.in);
     private static final String url = "jdbc:mysql://localhost:3306/project1";
     private static final String username = "root";
-    private static final String password = "Admin@279";
+    private static final String password = "your_password";
 
     public static void main(String[] args) {
         try{
