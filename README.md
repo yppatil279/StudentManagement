@@ -56,11 +56,11 @@
 
 ---
 
-## How to Run
+## How to Run (Intellij/Eclipse)
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/your-username/student-result-management.git
-    cd student-result-management
+    git clone https://github.com/your-username/StudentManagement.git
+    cd sStudentManagement
     ```
 2. **Open in IntelliJ IDEA / Eclipse**.
 3. **Update Database Credentials** in `Main.java`:
@@ -76,3 +76,4 @@
     java Main
     ```
 
+---
